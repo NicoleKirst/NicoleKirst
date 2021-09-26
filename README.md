@@ -2,8 +2,8 @@
 ## Eu sou a Nicole Kirst
 <div align="center">
   <a href="https://github.com/NicoleKirst">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=NicoleKirst&theme=blue-green"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleKirst&theme=blue-green"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=NicoleKirst&theme=blue-green"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleKirst&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
