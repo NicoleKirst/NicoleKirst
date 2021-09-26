@@ -18,5 +18,5 @@
 <div> 
    <a href="https://www.linkedin.com/in/nicole-kirst-3769a5213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/nicolekirst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  ![Snake animation]()
+  ![Snake animation](https://github.com/NicoleKirst/NicoleKirst/blob/main/.github/fluxos%20de%20trabalho/cobrinha.yml)
 </div>
