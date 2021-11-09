@@ -15,7 +15,7 @@
 ### About me:
 <div style="display: inline_block">
 <p> - 👨‍💻 Web Development Intern.</p>
-<p> - 👨‍🎓 Information Systems Student.</p>
+<p> - 👨‍🎓 Student of Information Systems.</p>
 <p> - 🎯 Learning now: HTML, CSS, Javascript, React, Angular, Node.js, API.</p>
  
 </div>
