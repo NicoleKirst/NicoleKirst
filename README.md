@@ -1,4 +1,4 @@
-## 👩‍💻 Hey, I’m Nicole Kirst! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey, I’m Nicole Kirst! 👩‍💻</h2>
 
 <div align="center">
   <a href="https://github.com/NicoleKirst">
