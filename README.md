@@ -1,4 +1,4 @@
-## Hey, I’m Nicole Kirst! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## 👩‍💻 Hey, I’m Nicole Kirst! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center">
   <a href="https://github.com/NicoleKirst">
@@ -9,7 +9,7 @@
   
 ### About me:
 <div style="display: inline_block">
-<p> - 👨‍💻 Web Development Intern.</p>
+<p> - 👩‍💻💻 Web Development Intern.</p>
 <p> - 👨‍🎓 Student of Information Systems.</p>
 <p> - 🎯 Learning: HTML, CSS, Javascript, React, Angular, Node.js, API.</p>
  
