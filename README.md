@@ -2,15 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/NicoleKirst">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=NicoleKirst&theme=midnight-purple"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleKirst&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoleKirst&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleKirst&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
+
   
 ### About me:
 <div style="display: inline_block">
@@ -18,6 +13,13 @@
 <p> - 👨‍🎓 Student of Information Systems.</p>
 <p> - 🎯 Learning: HTML, CSS, Javascript, React, Angular, Node.js, API.</p>
  
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
   
 ##
