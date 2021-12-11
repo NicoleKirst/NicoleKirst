@@ -11,7 +11,7 @@
 <div style="display: inline_block">
 <p> - 💻 Web Development Intern.</p>
 <p> - 👨‍🎓 Student of Information Systems.</p>
-<p> - 🎯 Interest: HTML, CSS, Javascript, React, Node.js, API.</p>
+<p> - 🎯 Interest: HTML, CSS, Javascript, React, API.</p>
 </div>
   
 <h2>🚀 My Skills:</h2>
