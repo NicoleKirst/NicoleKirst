@@ -1,11 +1,5 @@
 ## <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey, I’m Nicole Kirst! </h2>
 
-<div align="center">
-  <a href="https://github.com/NicoleKirst">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoleKirst&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleKirst&theme=midnight-purple"/>
-</div>
-
   
 <h2>👩‍💻 About me:</h2>
 <div style="display: inline_block">
