@@ -3,7 +3,7 @@
   
 <h2>👩‍💻 About me:</h2>
 <div style="display: inline_block">
-<p> - 💻 Web Development Intern.</p>
+<p> - 💻 Web Development.</p>
 <p> - 👨‍🎓 Student of Information Systems.</p>
 <p> - 🎯 Interest: HTML, CSS, Javascript, React, API.</p>
 </div>
